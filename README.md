@@ -1,4 +1,4 @@
-# Hello, I am Aashi!
+# 👋Hello, I am Aashi!
 
 🎯 Full‑Stack Developer | 🎓 B.Tech @ IIIT Nagpur (ECE 2023–2027) 
 
