@@ -1,4 +1,7 @@
-# 💫 About Me:
+# Hello, I am Aashi!
+
+🎯 Full‑Stack Developer | 🎓 B.Tech @ IIIT Nagpur (ECE 2023–2027) 
+
 🔭 I’m currently working on<br>An AI-powered Fake News Detector integrated into a dynamic News App, aiming to help users distinguish between real and misleading headlines. Also building CodeGenius, a browser-based IDE, and a GUI-based PDF editor.<br><br>🤝 I’m looking to collaborate on<br>Projects at the intersection of AI, web development, and social impact—especially tools that promote digital literacy, productivity, or automation.<br><br>🤲 I’m looking for help with<br>Refining AI models for real-time classification, deploying ML pipelines efficiently, and improving inference speed on client-side apps.<br><br>🌱 I’m currently learning<br>Machine Learning for NLP, Golang, and advanced MERN + AI integrations.<br><br>💬 Ask me about<br>React, Flask, browser-based IDEs, event management platforms, or building tools that bridge AI and web development.<br><br>⚡ Fun fact<br>If it's a hackathon weekend, I'm probably building, debugging, and deploying — all while sipping iced coffee and perfecting pixel alignment 🎯👩‍💻<br><br>
 
 
