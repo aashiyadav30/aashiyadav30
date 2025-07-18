@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Aashi!</h1>
 
 <p align="center">
-🎯 Full‑Stack Developer | 💡 AI & Web Enthusiast | 🎓 B.Tech @ IIIT Nagpur (ECE 2023–2027)  
+🎯 Full‑Stack Developer | 🎓 B.Tech @ IIIT Nagpur (ECE 2023–2027)  
 </p>
 
 # 💫 About Me:
